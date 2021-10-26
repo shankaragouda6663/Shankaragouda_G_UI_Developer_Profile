@@ -1,0 +1,165 @@
+{
+  "main": {
+    "name":"I'm Shankaragouda G.",
+    "description":"Working as a UI development engineer and I use frontend technologies like HTML5, CSS3, SCSS, BOOTSTRAP, JAVASCRIPT, JQUERY, REACTJS, ANGULAR, NODEJS, REDUX, AJAX to develop web pages",
+    "image":"profilepic.jpg",
+    "bio":"I’m a computer science engineer, developing beautiful web pages, and have a passion for coding. Born in a small South India village in Chellagurki, Karnataka, India. I made my move to Bangalore where I work as a UI developer for ACL Digital. I have 6 years of experience in web development. My professional interests are requirement analysis, website development with a responsive user interface, creating static and dynamic websites, implement web pages using the latest technologies like reactjs and angular, creating docker containers for ease of deployments, Kubernetes for container orchestration. Outside of work, I am an avid cyclist, jagging and fitness activities. I love to travel and lead a fairly nomadic lifestyle.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "shankargouda6663@gmail.com",
+    "phone": "974-170-6663",
+    "github":"https://github.com/shankaragouda6663/",
+    "project":"https://github.com/shankaragouda6663/",
+    "address":{
+      "name":"Shankaragouda G",
+      "street":"Chellagurki",
+      "city":"Ballari",
+      "state":"Karnataka",
+      "country":"India",
+      "zip": "583111"
+    },
+    "resumedownload":"https://drive.google.com/file/d/1W9TiPzGD5Bu3DzjDs6tlJe5g_VRjl0Mo/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/shankaragoudag/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/ShankaragoudaG/",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/shankaragouda-g-63768978/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/shankaragouda_g/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/shankaragouda6663/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education":[
+      {
+        "school":"Dayananda Sagar College of Engineering(DSCE)",
+        "degree":"Bachelor of Engineering in Computer Science",
+        "graduated":"June 2014",
+        "description":"I'm graduated in the stream of computer science engineering. where I have learned underlying theory, concepts, and science behind more complex programming. Also thought different skills like Programming, Problem solving, Critical thinking, Communication, Application and project based learning."
+      }
+    ],
+    "work":[
+      {
+        "company":"ACL Digital",
+        "title":"Senior Software Engineer",
+        "role": "UI Developer",
+        "years":"Oct 2019 - Present",
+        "description":"Having total 6 years of experience in developing Web Applications using front end technologies. Created Reactjs components using Material-UI library.  Also worked on state management using Redux.  Experience in Cross-browser HTML, CSS, JavaScript to offer high-performance, responsive web app layouts to modern browsers and mobile devices. Good understanding versioning tools like Jira, Kanban, fisheye and GIT.  Participate in agile methodologies and daily Scrums, software design reviews, code reviews, etc. to ensure solutions are designed to meet business needs."
+      },
+      {
+        "company":"Refinitiv, an LSEG business",
+        "title":"Software Engineer",
+        "role": "UI Developer",
+        "years":"April 2017 - Oct 2019",
+        "description":"Worked as a Web developer. My Responsibilities are Developing website layout, Created Responsive Designs using HTML & CSS, Bootstrap and Angular Material, Application and functions layout, Angular CLI, Angular 2/4 modules, services, templates, directives, services and dependency injection to create a SPA, Developed the backend API by using Node.js and Express and also integrated API in Angular, Created Docker container and configured Kubernates, Making recommendations towards the development of new code or reuse of existing code."
+      },
+      {
+        "company":"IMR Softech",
+        "title":"Software Engineer",
+        "role": "UI Developer",
+        "years":"Sep 2014 - March 2017",
+        "description":"Worked as a UI Developer involved in the development of the creation of static and dynamic web sites using technologies like HTML5, CSS3, Bootstrap, Javascript, jQuery, Ajax, JSON, and Angular."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "image": "html5.png",
+        "description":"HTML5 is a markup language used for structuring and presenting content on the World Wide Web."
+      },
+      {
+        "name":"CSS3",
+        "image": "css3.png",
+        "description":"Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML."
+      },
+      {
+        "name":"Bootstrap 4",
+        "image": "bootstrap.png",
+        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others."
+      },
+      {
+        "name":"JAVASCRIPT",
+        "image": "javascript.png",
+        "description":"JavaScript is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm."
+      },
+      {
+        "name":"JQUERY",
+        "image": "jquery.png",
+        "description":"jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax."
+      },
+      {
+        "name":"React JS",
+        "image": "reactjs.png",
+        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site."
+      },
+      {
+        "name":"ANGULAR",
+        "image": "angular.png",
+        "description":"Angular is a TypeScript-based free and open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations."
+      },
+      {
+        "name":"Node JS",
+        "image": "nodejs.png",
+        "description":"Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects."
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Smart Launching Application (Client: Essilor)",
+        "role": "UI Developer",
+        "technology": "HTML, CSS, ReactJS, Redux, Reactjs Material-UI, Reactjs Hooks, Nodejs.",
+        "description": "Smart Launching Application is a product, used within Essilor, to provide data for Essilor labs to manufacture lens across the world. SML allows lab users to prioritize the order for lens manufacturing for the lab. While creating lens SML manages to follow steps like Laucnhing, Surfacing, Tinting, Hard coat, Multicoat, Edging, Packing, Transbonding. SML will manage order to balance the workload in each workshop every hour, 24 hours a day. SML incudes different users will be managed based on roles."
+      },
+      {
+        "title":"Material Status and Destruction Notice (Client: Eli Lilly)",
+        "role": "UI Developer",
+        "technology": "HTML, CSS, ReactJS, Reactjs Hooks, Redux, Material-UI, JavaScript (ES6), Nodejs",
+        "description": "Material Status and Destruction Notification Application is a product, used within Eli Lilly, that allows Field users to check the status of tactics in their possession and ensure compliance with destroyed tactics. Users can check the status of tactic by scan or searching. Notices will be sent by Marketing Operation users about contained destroyed tactics that need to be confirmed destroyed by the field users."
+      },
+      {
+        "title":"Regulatory Intelligence (Client: Eli Lilly)",
+        "role": "UI Developer",
+        "technology": "HTML, CSS, ReactJS, Redux, Reactjs Material-UI, Reactjs Hooks, JavaScript (ES6), Nodejs",
+        "description": "Regulatory Intelligence is a product, used within Eli Lilly, that allows users to search regulatory relevant information based of some filters through Elasticsearch API."
+      },
+      {
+        "title":"FullPicture for Networks (Company: Refinitiv)",
+        "role": "UI Developer",
+        "technology": "HTML, CSS, JavaScript, Reactjs, Redux, Material-UI, Nodejs, Docker and Kubernetes",
+        "description": "FullPicture for Networks is a product, used within Thomson Reuters, designed to automate various manual steps in the process of fulfilling network communications for the customer orders of the company. Automation ranges from allocating VLANs and IP addresses to generating reports and creating configurations for the network devices at the customer end. Delivery Direct Amends -  Amends include – bandwidth amends (logical and physical), other logical amends that includes changing any attribute at Circuit or CPE level, End-points amends such as addition/deletion/modification of servers etc."
+      },
+      {
+        "title":"Internet Center of Excellence (Company: Refinitiv)",
+        "role": "UI Developer",
+        "technology": "HTML, CSS, Bootstrap, JavaScript, Angular 7, NodeJS, JSON, ArangoDB, AWS, Docker and Kubernetes",
+        "description": "For TR products delivered over either – Internet, FCN, Delivery Direct (also called as ‘Used Network’), the static IP addresses used by user to login through AAA system is captured and loaded into FullPicture into a model – “Product Usage”. Overall purpose is to use the AAA logged-in IP addresses to extract statistics around:  Most used ISPs to access every supported product and its specific country.  Share of each ISPs to serve access to these products, etc.  Latency and Application performance for each supported product in its specific country"
+      },
+      {
+        "title":"FullPicture Suppliers (Company: Refinitiv)",
+        "role": "UI Developer",
+        "technology": "HTML, CSS, Bootstrap, JavaScript, Angular 4, Java, PostgreSQL, AWS, Docker and Kubernetes",
+        "description": "FPS is a global portal for managing numerous providers of end-client connectivity solutions. The portal tracks an order from the point when it is raised by a Refinitiv User through to submission to a selected Supplier, following its progression to being delivered and ready for service. It offers a single interface to Refinitiv employees for dealing with multiple Suppliers as well as a scalable architecture allowing a b-to-b integration with the Supplier’s side in the future. The Portal’s interfaces are primarily used for technical data exchange and order status tracking."
+      }
+    ]
+  }
+}
