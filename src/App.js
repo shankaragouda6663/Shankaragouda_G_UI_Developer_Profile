@@ -14,7 +14,8 @@ class App extends Component {
     super(props);
     this.state = {
       foo: "bar",
-      resumeData: {}
+      resumeData: {},
+      data: ""
     };
 
     ReactGA.initialize("UA-110570651-1");
@@ -36,8 +37,30 @@ class App extends Component {
     });
   }
 
+  getNodeAPIData() {
+    // $.ajax({
+    //   url: "http://localhost:3001/api",
+    //   dataType: "json",
+    //   cache: false,
+    //   success: function(data) {
+    //     this.setState({ data: data });
+    //     console.log(data);
+    //   }.bind(this),
+    //   error: function(xhr, status, err) {
+    //     console.log(err);
+    //     alert(err);
+    //   }
+    // });
+    fetch("/api")
+    .then((res) => res.json())
+    .then(
+      (data) => console.log(data.message)
+    );
+  }
+
   componentDidMount() {
     this.getResumeData();
+    this.getNodeAPIData();
   }
 
   render() {
